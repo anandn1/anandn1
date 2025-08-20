@@ -42,12 +42,12 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anandn1&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandn1&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandn1&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 🏆 Achievements & Badges  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anandn1&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
