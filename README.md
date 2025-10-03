@@ -62,7 +62,7 @@
 ## 🏆 Achievements & Badges  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anandn1&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anandn1&theme=radical&no-frame=true&margin-w=10&margin-h=10"&v=2/>
 </p>
 
 ---
