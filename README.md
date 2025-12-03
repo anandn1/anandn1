@@ -60,7 +60,7 @@
 - **Stateful Multi-Agent Systems:** Architecting cyclic workflows using **LangGraph** where agents maintain persistent memory (Checkpointers) across user interactions.
 - **Agentic Patterns & Reflection:** Implementing **Self-Correcting Agents** that utilize iterative "Reflexion" loops to critique and improve their own reasoning before final output.
 - **Hierarchical Planning:** Building **Supervisor-Worker** structures where a top-level orchestrator delegates sub-tasks to specialized agents via function calling.
-- **Agentic MLOps (Future Focus):** Researching deployment strategies for autonomous agents, including evaluation frameworks (LangSmith) and containerized model serving.
+- **Agentic MLOps :** Researching deployment strategies for autonomous agents, including evaluation frameworks (LangSmith) and containerized model serving.
 
 ---
 
