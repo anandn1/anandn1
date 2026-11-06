@@ -15,20 +15,19 @@ I build **agentic AI systems**: multi-agent orchestration, tool-using agents, an
 | Project | What it does | Built with |
 |:--|:--|:--|
 | [**AutoOps AI**](https://github.com/anandn1/agentic-devops-sandbox) | Five-node agentic DevOps network with sandboxed execution and RAG-based fault resolution | `AutoGen` `Docker` `ChromaDB` |
-| [**Pathfinder AI**](https://github.com/anandn1/Pathfinder-AI-Pro) | Supervisor–worker career advisor with human-in-the-loop interrupt nodes and persistent state | `LangGraph` `PostgreSQL` |
+| [**Agentic Career Advisor**](https://github.com/anandn1/career-advisor) | Supervisor agent routing four specialist agents (market analysis, resume, curriculum, interview coaching) with RAG over interview data | `LangGraph` `PostgreSQL` `ChromaDB` |
 | [**ContentModEnv**](https://github.com/anandn1/ContentModEnv) | RL environment for training content-moderation policies<br><sub>🏆 Finalist, Meta PyTorch OpenEnv Hackathon</sub> | `PyTorch` `Gymnasium` |
 
 <br>
 
-### Stack
+### What I work on
 
-| | |
-|:--|:--|
-| **Agentic** | `LangGraph` `LangChain` `AutoGen` `LangSmith` |
-| **ML / RL** | `PyTorch` `TRL` `Unsloth` `TensorFlow` `NumPy` `Pandas` |
-| **Languages** | `Python` `C++` `Java` |
-| **Serving & data** | `FastAPI` `Flask` `PostgreSQL` `ChromaDB` `Pinecone` |
-| **Infra** | `Docker` `AWS` `Linux` |
+| Capability | Tools | See it in |
+|:--|:--|:--|
+| **Multi-agent orchestration** | `LangGraph` `AutoGen` | [Career Advisor](https://github.com/anandn1/career-advisor) · [AutoOps AI](https://github.com/anandn1/agentic-devops-sandbox) |
+| **RAG & tool-using agents** | `LangChain` `ChromaDB` | [AutoOps AI](https://github.com/anandn1/agentic-devops-sandbox) · [Career Advisor](https://github.com/anandn1/career-advisor) |
+| **Agent backends** | `Python` `FastAPI` `PostgreSQL` `Docker` | [Career Advisor](https://github.com/anandn1/career-advisor) |
+| **RL & LLM training** | `PyTorch` `TRL` `Gymnasium` | [ContentModEnv](https://github.com/anandn1/ContentModEnv) |
 
 <br>
 
